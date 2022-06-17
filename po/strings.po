@@ -5,9 +5,10 @@ msgstr ""
 "Language: ru\n"
 "Generated-By: Serge 1.4\n"
 
-#: ID: 401a3de792dd22a419e4d128d5cf31cc
+#: ID: 401a3de792dd22a419e4d128d5cf31cc1
+msgctxt "MY_ID_1"
 msgid "Действия"
-msgstr ""
+msgstr "NON TRANSLATE"
 
 #: ID: 3359f4a5173ef128b4fcb78b1fa1b03e
 msgid "Загрузка новых документов"
