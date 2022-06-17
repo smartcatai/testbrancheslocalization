@@ -1,0 +1,30 @@
+﻿msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Generated-By: Serge 1.4\n"
+
+#: ID: 401a3de792dd22a419e4d128d5cf31cc
+msgid "Действия"
+msgstr ""
+
+#: ID: 3359f4a5173ef128b4fcb78b1fa1b03e
+msgid "Загрузка новых документов"
+msgstr ""
+
+#: ID: 19fb536cb5dcd36e218a09c10fb51310
+msgid "Дождитесь, пока программа автоматически определит навыки и удалит информацию"
+msgstr ""
+
+#: ID: 794d32c55225d8de36415e511ef7800f
+msgid "Просмотрите результаты извлечения и загрузите их на компьютер"
+msgstr ""
+
+#: ID: 371129aec7b0fc2a1965dd5dbc1b2e0f
+msgid "Пожалуйста, решите, какой навык использовать"
+msgstr ""
+
+#: ID: 691f1b7b80f4613e77848476c855002f
+msgid "какой-то новый контент"
+msgstr ""
