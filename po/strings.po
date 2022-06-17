@@ -10,6 +10,10 @@ msgctxt "MY_ID_1"
 msgid "Действия"
 msgstr "NON TRANSLATE"
 
+msgctxt "MY_ID_FB_2"
+msgid "Действия"
+msgstr "NON TRANSLATE"
+
 #: ID: 3359f4a5173ef128b4fcb78b1fa1b03e
 msgid "Загрузка новых документов"
 msgstr ""
