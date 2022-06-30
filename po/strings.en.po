@@ -24,7 +24,3 @@ msgstr ""
 #: ID: 371129aec7b0fc2a1965dd5dbc1b2e0f
 msgid "Пожалуйста, решите, какой навык использовать"
 msgstr ""
-
-#: ID: 371129aec7b0fc2a1965dd5dbc1b2e0f
-msgid "Моя новая строка"
-msgstr ""
